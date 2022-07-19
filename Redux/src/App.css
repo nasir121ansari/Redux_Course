@@ -1,0 +1,25 @@
+nav{
+  background-color: blueviolet;
+  padding: 10px;
+  font-size: 18px;
+}
+
+nav a{
+  color: white;
+  text-decoration: none;
+}
+.btn-success{
+  background: linear-gradient(45deg,black,limegreen);
+}
+.btn-warning{
+  background: linear-gradient(45deg,black,red);
+}
+.btn-danger{
+  background: linear-gradient(45deg,black,pink);
+}
+.bg-primary {
+  background: linear-gradient(45deg,black,limegreen);
+}
+.bg-success{
+  background: linear-gradient(45deg,black,red);
+}
